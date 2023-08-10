@@ -1,2 +1,2 @@
 # portfolio
-This is my trial portfolio
+This is my personal portfolio
